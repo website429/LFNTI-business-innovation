@@ -67,12 +67,12 @@
     /* NAVIGATION */
     header {
       width: 100%;
-      max-width: 100vw;
       position: sticky;
-      top: 0; left: 0;
+      top: 0; 
+      left: 0;
       z-index: 1100;
       transition: var(--transition);
-      overflow-x: hidden;
+      overflow-x: clip;
       
     }
 
@@ -109,9 +109,9 @@
       gap: 2.2rem;
       list-style: none;
       font-weight: bold;
-      flex-wrap: wrap;
-      max-width: 100vw;
-      overflow-x: auto;
+      flex-wrap: nowrap;
+      max-width: 100%;
+      overflow: visible;
       box-sizing: border-box;
     }
 
