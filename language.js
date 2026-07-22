@@ -100,7 +100,7 @@ contactTitle:"Contact Us",
 contactDesc:"We are here to help. Reach out to us through the channels below!",
 
 officeTitle:"Our Office",
-officeAddress:"📍 Hadinet, Mekele, Tigray",
+officeAddress:"📍Alula ST, Mekele, Tigray",
 
 quickLinks:"Quick Links",
 
@@ -206,7 +206,7 @@ contactTitle:"ርኸቡና",
 contactDesc:"ንምሕጋዝ ኣብዚ ኣለና። ብዝደለኹምዎ መገዲ ርኸቡና።",
 
 officeTitle:"ቤት ጽሕፈትና",
-officeAddress:"📍ሓድነት ፣ መቐለ፣ ትግራይ",
+officeAddress:"📍ኣሉላ ስትሪት ፣ መቐለ፣ ትግራይ",
 
 quickLinks:"ቀልጢፎም ዝርከቡ ሊንክታት",
 
